@@ -5,7 +5,7 @@ import { TonConnectUIProvider } from "@tonconnect/ui-react";
 import { BatchSender } from "@/components/BatchSender";
 
 const MANIFEST_URL =
-  "https://github.com/whyubel1eve/fuckcrypto/tonconnect-manifest.json";
+  "https://github.com/whyubel1eve/fuckcrypto/blob/main/tonconnect-manifest.json";
 
 export default function Home() {
   return (
